@@ -1,0 +1,28 @@
+html{
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 50px;
+  }
+
+.panel-body{
+    background-color: rgb(253, 254, 254);
+}
+
+h2{
+    font-style: bold;
+    color:rgb(187, 143, 206);
+}
+
+h6{
+    font-style: bold;
+    color:rgb(187, 143, 206);
+}
+
+.panel{
+    padding: 10px;
+    background-color:  rgb(253, 254, 254);
+
+}
